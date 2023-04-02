@@ -12,4 +12,13 @@ Bilgisayarınızda zaten pyhon ve pyQT5 varsa 3. Adıma geçin.
 
 4.Adım: Ardından "velocity_feet.py" adlı dosyayı pyhon ile çalıştırı seçerek uygulamayı çalıştırabilirsiniz.
 
+Kullanımı,
+Sadece sayısal değerler girdi olarak girilebilir.
+
+Formullerden öncelikle N (devir) hesaplanır.
+
+Sonrasında kullan komutu ile F (İlerleme) hesaplamak için kullan butonuna basılarak ilerleme formülüne ister başka ilerleme ister hesaplanan ilerleme girilmiş olur.
+
+Diş başına düşen ilerleme ve kesici takım ağız sayısı da girilerek Hesapla butonu ile hesaplama yapılmış olur.
+
 bbayramkuru@gmail.com
