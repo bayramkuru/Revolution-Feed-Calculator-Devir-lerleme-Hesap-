@@ -1,7 +1,10 @@
 # Revolution-Feed-Calculator-Devir-lerleme-Hesap- -created by bayramkuru
 Devir ve ilerlemeyi hesaplayan program
 Uygulamayı .exe olarak kaydettim. Boyutu büyük olduğu için buraya yükleyemedim.
-Bu yüzden python ve pyQt5 kurulumu yapmanız gerekiyor.
+https://drive.google.com/file/d/1p7Qunu9-K1khMHW9ZilB8GxCs_y5oElH/view?usp=sharing buradan indirebilirsiniz windows virüs gibi algılıyor. Tanımsız bir yayıncı olduğundan bir sorun oluşturmayacaktır. Ama bunu istemem diyenler için ham kodlar ile çalışan halini de nasıl kuracağınızı aşağıda anlattım.
+
+python ve pyQt5 kurulumu yapmanız gerekiyor.
+
 Bilgisayarınızda zaten pyhon ve pyQT5 varsa 3. Adıma geçin.
 
 1.Adım: https://www.python.org/downloads/ adresinden python'ı bilgisayarınıza kurmanız gerekmekte. Pythonı kurarken "Add to path" tikine tıkladığınızdan emin olun.
